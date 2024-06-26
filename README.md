@@ -1,6 +1,5 @@
 # Medical-Store-Management-System
 
-This is a comprehensive Medical Store Management System using Python (Flask), MySQL, HTML, CSS, and JavaScript, enhancing product management efficiency with secure add, update, and delete functionalities.
 
 
 ![Screenshot (84)](https://github.com/Khushi2629/Medical-Store-Management-System/assets/121286189/a1ca59ba-dda2-44b2-9236-d721fbe3f50b)
